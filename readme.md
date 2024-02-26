@@ -10,19 +10,19 @@ Através deste recurso a Inteligência Artificial irá analisar textos afim de d
 
 ![Primeiro passo](https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/1.PNG)
 
-![Segundo passo] (https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/2.png)
+![Segundo passo](https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/2.png)
 
 ### 02 - Adicione o arquivo.txt que pretenda fazer a analise, gere o resultado e veja se está correto.
 
-![Terceiro passo] (https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/3.png)
+![Terceiro passo](https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/3.png)
 
 ![Quarto passo] (https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/4.png)
 
 ### 03 - Cheque os resultados do arquivo de texto enviado.
 
-![Quinto passo] (https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/5.png)
+![Quinto passo](https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/5.png)
 
-![Sexto passo] (https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/6.png)
+![Sexto passo](https://github.com/Mathsilvaw/Projeto-sentimentoIA/blob/main/Output/6.png)
 
 
 ### Considerações Finais
